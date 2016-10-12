@@ -25,4 +25,4 @@ app.post("/books", function(request, response){
 app.listen(4567);
 console.log("woow, dees werkt, ofni ofwel");
 
-/** http://localhost:4567/book */
+/** http://localhost:4567/books */
